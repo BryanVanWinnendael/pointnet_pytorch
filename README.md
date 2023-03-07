@@ -1,5 +1,7 @@
 # Python 3.7.16
 
+This is a windows installation of [Pointnet.pytorch](https://github.com/fxia22/pointnet.pytorch).
+
 # Installation
 
 ## WSL:
